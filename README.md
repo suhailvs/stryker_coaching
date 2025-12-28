@@ -1,25 +1,37 @@
-# Day1 (dec 16)
+# Stryker PSC Coaching
 
+### Day1 (dec 16)
 
-# Day2 (dec 17)
-ca
-kerala geography part2
-social chapter 6, part2
++ ca
 
-# Day3 (dec 18)
-ca
-kerala basic facts 1
-european coming, part1
-social chapter 6, part3
+### Day2 (dec 17)
++ ca
++ kerala geography part2
++ social chapter 6, part2
 
-# Day4 (dec 19 friday)
-ca
-social chapter 6, part 5
+### Day3 (dec 18)
++ ca
++ kerala basic facts 1
++ european coming, part1
++ social chapter 6, part3
++ basic health 1 & 2
 
-# Day5 (dec 22 monday)
+### Day4 (dec 19 friday)
++ ca
++ social chapter 6, part 5
++ basic health 1 & 2
 
-# Day6 (dec 23 tuesday)
+### Day5 (dec 22 monday)
++ ca
++ vitamins
++ cells
++ social chapter 6, part 6
 
-# Day7 (dec 26 friday)
+### Day6 (dec 23 tuesday)
++ ca
 
-# Day8 (dec 27 sunday)
+### Day7 (dec 26 friday)
++ ca
+
+### Day8 (dec 27 sunday)
++ ca
